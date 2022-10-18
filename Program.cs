@@ -2,7 +2,7 @@
 
 string nombre = Console.ReadLine();
 
-Console.WriteLine("Hello, World!" + nombre);
+Console.WriteLine("Hola, mundo!" + nombre);
 
 //Edad??
 
