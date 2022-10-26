@@ -1,8 +1,8 @@
-﻿Console.WriteLine("Introduce algo");
+﻿Console.WriteLine("Introduce tu nombre");
 
 string nombre = Console.ReadLine();
 
-Console.WriteLine("Hola, mundo!" + nombre);
+Console.WriteLine("Hola " + nombre);
 
 //Edad??
 
